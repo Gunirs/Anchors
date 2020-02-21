@@ -1,0 +1,26 @@
+tile.anchors:blockWorldAnchor.name=Мировой якорь
+inventory.worldAnchor.name=Мировой якорь
+inventory.mode.text=Режим
+
+
+item.anchors:itemTritiumCell.name=Тритий
+
+gui.workTime.text=Время работы:
+
+gui.dayShort.text=д
+gui.hourShort.text=ч
+gui.minuteShort.text=м
+gui.secondShort.text=с
+
+gui.pausedON.text=ON
+gui.pausedOFF.text=OFF
+
+gui.loadingModeSmall.text=1x1
+gui.loadingModeNormal.text=3x3
+gui.loadingModeLarge.text=5x5
+
+key.chunkloading.category=Anchors
+key.chunkloading.view=Отображать чанки, на которые оказывают влияние мировые якори
+
+lore.workTime.text=§7Время работы:
+lore.mode.text=§7Режим:

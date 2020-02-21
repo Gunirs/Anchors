@@ -1,0 +1,16 @@
+[
+{
+  "modid": "anchors",
+  "name": "Anchors",
+  "description": "A mod that adds a modern chunk loader to the game",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/gunirs/anchors",
+  "updateUrl": "",
+  "authorList": ["Gunirs"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

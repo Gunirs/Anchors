@@ -1,0 +1,26 @@
+tile.anchors:blockWorldAnchor.name=World Anchor
+inventory.worldAnchor.name=World Anchor
+inventory.mode.text=Mode
+
+
+item.anchors:itemTritiumCell.name=Tritium
+
+gui.workTime.text=Working Time:
+
+gui.dayShort.text=d
+gui.hourShort.text=h
+gui.minuteShort.text=m
+gui.secondShort.text=s
+
+gui.pausedON.text=ON
+gui.pausedOFF.text=OFF
+
+gui.loadingModeSmall.text=1x1
+gui.loadingModeNormal.text=3x3
+gui.loadingModeLarge.text=5x5
+
+key.chunkloading.category=Anchors
+key.chunkloading.view=Display chunks that are touched by world anchors
+
+lore.workTime.text=§7Work time:
+lore.mode.text=§7Mode:
